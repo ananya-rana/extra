@@ -2,7 +2,7 @@
 
 ## Participated in ROBOCON 2015, All India Robotics competition
 •	Objective- to score points in a game of badminton which was supposed to be played by two robots of each team. The two robots had to serve or hit back the shuttle successfully to earn points. <br/>
-•	As a part of the mechanical sub-group, helped design and finally assemble the body, the working mechanism, as well as the badminton playing mechanism of the robot. The robot’s body was handcrafted through extensive metallurgical processes including work on the lathe machine, water-jet machine amongst other tools.
+•	As a part of the mechanical sub-group, helped design and finally assemble the body, the working mechanism, as well as the badminton playing mechanism of the robot. The robot’s body was handcrafted through extensive metallurgical processes including work on the lathe machine, water-jet machine amongst other tools. <br/>
 •	Our team was placed 11th in the competition nationally.
 
 ## Team Captain of The Mughals @Takneek, IIT Kanpur
@@ -22,8 +22,8 @@
 ## Participated in Mr.Galaxy competition @Galaxy, IITK
 •	A competition held between individuals who are proficient in 6 fields – music, dance, drama, literature, arts and quizzing. Represented a 4th of IITK’s students as part of the Mughals team in the intra-IIT competition.
 
-## Won The Junior Saharanpur Cup in the District Level Cricket Tournament
-## Achieved 16th rank in Table Tennis UP State cluster competition
-## Runners up in District Classical Vocals competition
-## Graduated 4th Year(Senior Diploma) in Classical Vocals, 4th year(Senior Diploma) in Tabla, 3rd  year in Violin and 1st Year in Bhaav Sangeet from Prayag Sangit Samiti, Allahabad.
+#### Won The Junior Saharanpur Cup in the District Level Cricket Tournament
+#### Achieved 16th rank in Table Tennis UP State cluster competition
+#### Runners up in District Classical Vocals competition
+#### Graduated 4th Year(Senior Diploma) in Classical Vocals, 4th year(Senior Diploma) in Tabla, 3rd  year in Violin and 1st Year in Bhaav Sangeet from Prayag Sangit Samiti, Allahabad.
 
